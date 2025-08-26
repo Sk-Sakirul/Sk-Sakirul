@@ -4,10 +4,13 @@
 ---
 
 ## 🌟 About Me
-- 🚀 I am a **Full-Stack Developer**, recently graduated with a **B.Tech in Computer Science (2024)** and currently upskilling through **Masai School’s part-time Software Development course**.
-- 💡 Passionate about **MERN Stack (MongoDB, Express, React, Node.js)** and always eager to learn and grow in a dynamic environment.
-- 🔍 Currently exploring **Advanced React patterns** and **backend optimizations** to build scalable applications.
-- 🎯 **Career Goal**: To become a skilled **Full-Stack Developer** and contribute to impactful projects.
+🚀 I am a **Full-Stack Developer**, recently graduated with a **B.Tech in Computer Science (2024)** and currently upskilling through **Masai School’s part-time Software Development course**.
+
+💡 Passionate about **MERN Stack (MongoDB, Express, React, Node.js)** and always eager to learn and grow in a dynamic environment.
+
+🔍 Currently exploring **Advanced React patterns** and **backend optimizations** to build scalable applications.
+
+🎯 **Career Goal**: To become a skilled **Full-Stack Developer** and contribute to impactful projects.
 
 ---
 
